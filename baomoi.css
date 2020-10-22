@@ -1,0 +1,46 @@
+.chialan1 {
+    display: flex;
+}
+.chialan1_1 {
+    width: 770px;
+}
+.img2 {
+    width: 30%;
+}
+.chialan1_2_1{
+    display: flex;
+    width: 380px;
+    justify-content: space-between;
+}
+.chialan1_2_1 p {
+    width: 65%;
+}
+.chialan1_2_1 p:hover {
+    font-size: 20px;
+    color: red;
+    text-transform: uppercase;
+    transition: 0.4s;
+}
+.img1 {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    background-color: rgb(58, 235, 42);
+    display: flex;
+    list-style: none;
+    height: 30px;
+    margin: auto;
+}
+li {
+    display: block;
+    width: 100px;
+    text-align: center;
+}
+li:hover {
+    background-color: red;
+    transition: 0.4s;
+}
